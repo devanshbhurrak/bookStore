@@ -1,0 +1,186 @@
+[
+    {
+        "id": 21,
+        "name": "The Adventures of Sherlock Holmes",
+        "title": "Sherlock Holmes Short Stories",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/9587569-L.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Pride and Prejudice",
+        "title": "Austen's Classic Social Novel",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/8231427-L.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Moby-Dick",
+        "title": "Melville's Whale Hunting Epic",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/135816-L.jpg"
+    },
+    {
+        "id": 1,
+        "name": "The Adventures of Sherlock Holmes",
+        "title": "Sherlock Holmes Short Stories",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/9587569-L.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pride and Prejudice",
+        "title": "Austen's Classic Social Novel",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/8231427-L.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Moby-Dick",
+        "title": "Melville's Whale Hunting Epic",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/135816-L.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Frankenstein",
+        "title": "Shelley's Gothic Horror",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/7984783-L.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Alice’s Adventures in Wonderland",
+        "title": "Carroll's Whimsical Journey",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/8034158-L.jpg"
+    },
+    {
+        "id": 6,
+        "name": "The Picture of Dorian Gray",
+        "title": "Wilde's Decadent Portrait",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/124474-L.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dracula",
+        "title": "Stoker's Vampire Classic",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/7795165-L.jpg"
+    },
+    {
+        "id": 8,
+        "name": "The War of the Worlds",
+        "title": "Wells' Martian Invasion",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/8744655-L.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Treasure Island",
+        "title": "Stevenson's Pirate Adventure",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/7795168-L.jpg"
+    },
+    {
+        "id": 10,
+        "name": "A Tale of Two Cities",
+        "title": "Dickens' French Revolution",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/7247438-L.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Story Book",
+        "title": "Collection of short stories",
+        "price": 0,
+        "category": "Free",
+        "image": "https://covers.openlibrary.org/b/id/10259323-L.jpg"
+    },
+    {
+        "id": 12,
+        "name": "The AI Revolution",
+        "title": "Revolution of AI",
+        "price": 599,
+        "category": "Paid   ",
+        "image": "https://covers.openlibrary.org/b/id/12579928-L.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Mastering JavaScript",
+        "title": "Guide to JavaScript",
+        "price": 799,
+        "category": "Paid",
+        "image": "https://covers.openlibrary.org/b/id/13244910-L.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Data Science Handbook",
+        "title": "Handbook of Data Science",
+        "price": 999,
+        "category": "Paid",
+        "image": "https://covers.openlibrary.org/b/id/12724591-L.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Beginner's Guide to Python",
+        "title": "Guide to Python",
+        "price": 499,
+        "category": "Paid",
+        "image": "https://covers.openlibrary.org/b/id/10283521-L.jpg"
+    },
+    {
+        "id": 16,
+        "name": "The Art of Machine Learning",
+        "title": "Machine Learning ",
+        "price": 1099,
+        "category": "Paid",
+        "image": "https://covers.openlibrary.org/b/id/9973132-L.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Cybersecurity Essentials",
+        "title": "Cybersecurity Guide",
+        "price": 849,
+        "category": "Paid",
+        "image": "https://covers.openlibrary.org/b/id/12249591-L.jpg"
+    },
+    {
+        "id": 18,
+        "name": "The Startup Playbook",
+        "title": "Guide of Startup",
+        "price": 699,
+        "category": "Paid",
+        "image": "https://covers.openlibrary.org/b/id/7984784-L.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Advanced Web Development",
+        "title": "Web Development Guide",
+        "price": 1199,
+        "category": "Paid",
+        "image": "https://covers.openlibrary.org/b/id/12264747-L.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Blockchain for Beginners",
+        "title": "Guide to Blockchain",
+        "price": 899,
+        "category": "Paid",
+        "image": "https://covers.openlibrary.org/b/id/13016760-L.jpg"
+    }
+]
