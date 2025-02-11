@@ -33,7 +33,7 @@ function Banner() {
 
                 </div>
 
-                <Link to={'/signup'} className="btn btn-secondary mt-7 bg-pink-500">Sign up</Link>
+                <Link to={'/signup'} className="btn btn-secondary mt-7 bg-pink-500">Get Started</Link>
             
 
             </div>
